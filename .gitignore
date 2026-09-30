@@ -1,0 +1,7 @@
+macos/Frameworks/
+macos/Frameworks.*/
+.dart_tool/
+build/
+.packages
+pubspec.lock
+.DS_Store
